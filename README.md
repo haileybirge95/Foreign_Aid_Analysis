@@ -1,1 +1,1 @@
-# ForiegnAidAnalysis
+# ForeignAidAnalysis
