@@ -1,6 +1,8 @@
 # Added World Bank large source data file to avoid uploading
 WB_METADATA_f7ce7fba293ccc6eb39cdf15fb097982.csv
 WB_METADATA_f7ce7fba293ccc6eb39cdf15fb097982.xls
+WB_africadata.csv
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
