@@ -15,7 +15,12 @@ This plot shows aid in billions distributed over the years by income group. It c
 ![Image 1](https://i.imgur.com/x2FB9Fg.png)
 
 ### 2. There is a negative correlation between foreign aid and mortality.
+To explore the hypothesis that there is there a relationship between foreign aid and mortality, a linear regression analysis was conducted. The statistical analysis resulted in an r squared value of 0.81, indicating there is likely a relationship between the two, and the amount of foreign aid received has an impact on mortality rates. 
+![Image 1](https://i.imgur.com/KPII16Z.png)
+
 ### 3. Countries with higher populations will receive more foreign aid.
+A second linear analysis explored the last hypothesis. The linear analysis resulted in an r squared value of 0.67, confirming there is a positive correlation between foreign aid contribution and population. 
+![Image 1](https://i.imgur.com/qVaWCeu.png)
 
 This analysis was based on two datasets:
 1. Nasdaq World Bank - WB_DATA_d950d0cd269a601150c0afd03b234ee2.csv
