@@ -10,9 +10,9 @@ The significance of the results is determined by statistical testing include lin
 </p>
 
 ## Hypotheses
-1. Foreign aid is predominantly provided to low-income countries.
-2. There is a negative correlation between foreign aid and mortality.
-3. Countries with higher populations will receive more foreign aid.
+# 1. Foreign aid is predominantly provided to low-income countries.
+# 2. There is a negative correlation between foreign aid and mortality.
+# 3. Countries with higher populations will receive more foreign aid.
 
 This analysis was based on two datasets:
 1. Nasdaq World Bank - WB_DATA_d950d0cd269a601150c0afd03b234ee2.csv
