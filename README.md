@@ -20,6 +20,7 @@ To explore the hypothesis that there is there a relationship between foreign aid
 
 ### 3. Countries with higher populations will receive more foreign aid.
 A second linear analysis explored the last hypothesis. The linear analysis resulted in a positive correlation between foreign aid contribution and population.
+
 ![Image 1](https://i.imgur.com/qVaWCeu.png)
 
 Overall, each hypothesis is supported by the analysis conducted on the data on developing countries in Africa. 
