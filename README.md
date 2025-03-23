@@ -11,6 +11,9 @@ The significance of the results is determined by statistical testing include lin
 
 ## Hypotheses
 ### 1. Foreign aid is predominantly provided to low-income countries.
+This plot shows aid in billions distributed over the years by income group. It confirms that the lowest income group received the most aid and the highest income group the least. 
+![Image 1](https://i.imgur.com/x2FB9Fg.png)
+
 ### 2. There is a negative correlation between foreign aid and mortality.
 ### 3. Countries with higher populations will receive more foreign aid.
 
