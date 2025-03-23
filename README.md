@@ -19,7 +19,7 @@ To explore the hypothesis that there is there a relationship between foreign aid
 ![Image 1](https://i.imgur.com/KPII16Z.png)
 
 ### 3. Countries with higher populations will receive more foreign aid.
-A second linear analysis explored the last hypothesis. The linear analysis resulted in an r squared value of 0.67, confirming there is a positive correlation between foreign aid contribution and population. 
+A second linear analysis explored the last hypothesis. The linear analysis resulted in a positive correlation between foreign aid contribution and population.
 ![Image 1](https://i.imgur.com/qVaWCeu.png)
 
 This analysis was based on two datasets:
